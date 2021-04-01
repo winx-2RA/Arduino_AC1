@@ -1,6 +1,6 @@
 # Arduino_AC1
 ## Nossa primeira AC, observe bem o código, procure pelos erros.
-![](
+![](https://github.com/winx-2RA/Arduino_AC1/blob/main/Capturar.JPG)
 
 ## **O PROBLEMA:** 
 
