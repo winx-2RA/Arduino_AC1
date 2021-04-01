@@ -36,3 +36,10 @@ Responsável por programar os códigos.
 oi meu nome é Marcella Soares Negro tenho 16 anos, eu gosto muito de tocar violão, ver o céu e escutar música.
 Responsável por programar os códigos.
 
+DOCUMENTAÇÃO
+Adicionamos algumas variaveis, constantes e funções, nas quais são: 
+if checa uma condição e executa o comando a seguir ou um bloco de comandos delimitados por chaves, se a condição é verdadeira ou falsa
+; encerra um comando 
+// usado para informar você e a outros como o programa funciona 
+OUTPUT podem fornecer uma quantidade substancial de corrente para outros circuitos 
+false 
