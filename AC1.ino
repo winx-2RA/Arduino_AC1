@@ -20,24 +20,28 @@ void setup()
 //saida led azul
   pinMode(vermelho, OUTPUT);
   pinMode(verde, OUTPUT);
-  pinMode(azul, saida);
+  pinMode(azul, OUTPUT);
   
   Serial.begin(9600);
-	
+  //WINX	
   Serial.println("AC1 - Meu Primeiro Projeto 2021");
   Serial.println("                           V1.0");
-  Serial.println("Grupo: NOME AQUI               ");
+  Serial.println("Grupo:Winx               ");
 }
-
+//ligar e desligar led vermelho
 void loop()
 {
   if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
   	Serial.println("botao 1 apertado");
-    ledVermelho();
+    ledVermelho(true);
   	lastDebounceTime1 = millis();
   }
-  
-  if(getTemperatura() > 30){
+ if((millis() - lastDebounceTime2) > botaoDelay && digitalRead(botao2)){
+  	Serial.println("botao 2 apertado");
+    ledVermelho(false);
+  	lastDebounceTime2 = millis(); 
+ }
+  if(getTemperatura() > 15){
     ledAzul(true);
   }else{
   	ledAzul(falso); 
