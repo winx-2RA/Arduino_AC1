@@ -1,5 +1,6 @@
 # Arduino_AC1
 ## Nossa primeira AC, observe bem o código, procure pelos erros.
+![](
 
 ## **O PROBLEMA:** 
 
