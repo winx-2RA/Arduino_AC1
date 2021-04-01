@@ -23,9 +23,9 @@ oi meu nome é maria eduarda e gosto muito de sair com os amigos e viajar, dormi
 
 ![](https://github.com/winx-2RA/Arduino_AC1/blob/main/6980b2ed-b6eb-4344-8a9d-65878a677836.jfif)
 
-oi meu nome é Marcella Soares Negro tenho 16 anos, eu gosto muito de tocar violão, ver o céu e escutar música
+oie eu sou a Nathalia, tenho 16 anos, gosto muito de cristais, viajar, mexer com animais , escutar música e ver coisas relacionadas ao universo.oi meu nome é Marcella Soares Negro tenho 16 anos, eu gosto muito de tocar violão, ver o céu e escutar música
 
 ![](https://github.com/winx-2RA/Arduino_AC1/blob/main/37fd6f33-93e4-431d-9bdd-1c44a0e315a2.jfif)
 
-oie eu sou a Nathalia, tenho 16 anos, gosto muito de cristais, viajar, mexer com animais , escutar música e ver coisas relacionadas ao universo.
+oi meu nome é Marcella Soares Negro tenho 16 anos, eu gosto muito de tocar violão, ver o céu e escutar música
 
