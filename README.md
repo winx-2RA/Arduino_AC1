@@ -3,9 +3,11 @@
 
 ## **O PROBLEMA:** 
 
-Nosso grupo Winx foi contratado por uma empresa farmacêutica para arrumar a parte de programação para o processo da doses das vacinas de Covid-19. 
+Nosso grupo Winx foi contratado por uma empresa farmacêutica para arrumar a parte de programação para o processo das doses das vacinas de Covid-19. 
 
 ![](https://github.com/winx-2RA/Arduino_AC1/blob/main/5ca9726a-1a19-4aec-8993-5c28628b1f21.jfif)
+meu nome é Julia, tenho 15 anos, eu adoro ir para a praia e tomar sol, gosto muito de todo tipo de animal 
+
 ![](https://github.com/winx-2RA/Arduino_AC1/blob/main/41e90df1-694f-4371-8adb-3810a58da151.jfif)
 ![](https://github.com/winx-2RA/Arduino_AC1/blob/main/89beacaa-5c08-446a-8071-cecbd023e550.jfif)
 meu nome é Maria Luiza, tenho 16 anos, gosto muito de teatro e musica e de passar um tempo com os meus amigos.
