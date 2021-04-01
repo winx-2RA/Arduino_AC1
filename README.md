@@ -9,6 +9,8 @@ Nosso grupo Winx foi contratado por uma empresa farmacêutica para arrumar a par
 meu nome é Julia, tenho 15 anos, eu adoro ir para a praia e tomar sol, gosto muito de todo tipo de animal 
 
 ![](https://github.com/winx-2RA/Arduino_AC1/blob/main/41e90df1-694f-4371-8adb-3810a58da151.jfif)
+Meu nome é Rafaela Greco, sou libriana e tenho 15 anos!! Gosto muito de ir para praia, ficar com meus amigos e principalmente passar o tempo com minha família!
+
 ![](https://github.com/winx-2RA/Arduino_AC1/blob/main/89beacaa-5c08-446a-8071-cecbd023e550.jfif)
 meu nome é Maria Luiza, tenho 16 anos, gosto muito de teatro e musica e de passar um tempo com os meus amigos.
 
