@@ -43,3 +43,14 @@ if checa uma condição e executa o comando a seguir ou um bloco de comandos del
 // usado para informar você e a outros como o programa funciona 
 OUTPUT podem fornecer uma quantidade substancial de corrente para outros circuitos 
 false 
+
+false é o mais fácil dos dois de ser definido. Sendo definido apenas como 0
+millis ()
+retorna o número de milissegundos passados desde que a placa Arduino começou a executar o programa atual. Esse número irá sofrer overflow após aproximadamente 50 dias.
+true é frequentemente dito ser defenido como um e possui uma definição mais ampla.
+{} são muito importantes para o programa.
+usamos outros tipos também que não foram citados.
+
+
+adicionamos um botão para ligar e desligar os leds. Colocamos também uma temperatura e uma luminosidade. 
+assim ajudamos a fábrica farmacêutica com a produção das doses de vacinas.
